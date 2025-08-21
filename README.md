@@ -6,5 +6,5 @@ cd readline_node_js_mini_app
 npm i
 node server.js
 
-![Скриншот 1](assets/screenshot.png)
-![Скриншот 2](assets/screenshot2.png)
+![Скриншот 1](https://raw.githubusercontent.com/c0mradich/readline_node_js_mini_app/master/src/assets/screenshot.png)
+![Скриншот 2](https://raw.githubusercontent.com/c0mradich/readline_node_js_mini_app/master/src/assets/screenshot.png2)
